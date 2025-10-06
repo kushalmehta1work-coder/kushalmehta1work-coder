@@ -15,8 +15,7 @@ I am a Commerce Graduate (B.Com) from Delhi, currently on a self-learning journe
 - Build hands-on projects to solve practical problems.
 
 **🤝 Let's Connect:**
-- **LinkedIn:** [YAHAN-APNI-LINKEDIN-PROFILE-KA-LINK-DAALO]
-
+- **LinkedIn:** [Kushal Mehta](https://www.linkedin.com/in/kushal-mehta-cloud)
 ---
 <!--
 **kushalmehta1work-coder/kushalmehta1work-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
